@@ -1,5 +1,4 @@
-# End-To-End-Deep-Learning-Master
-Kidney Disease Classification
+# Kidney-Disease-Classification-MLflow-DVC
 
 
 ## Workflows
